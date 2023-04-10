@@ -6,7 +6,7 @@ This project implements the Weighted A* search algorithm with graph search to so
 
 On a 4x4 board, there are 15 tiles numbered from 1 to 15 and a blank position. A tile can slide into the blank position if it is horizontally or vertically adjacent to the blank position. Given a start board configuration and a goal board configuration, the objective is to find a move sequence with a minimum number of moves to reach the goal configuration from the start configuration.
 
-#Usage
+# Usage
 
 The program reads in the value for W, the initial and goal states from a text file that contains 11 lines. The output file contains 15 lines. The program uses Python language.
 
